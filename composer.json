@@ -2,6 +2,7 @@
     "name": "ralfmaxxx/vagrant-configurable",
     "description": "Configure your vagrant using one file",
     "minimum-stability": "stable",
+    "license": "BSD",
     "authors": [
         {
             "name": "Rafał Kański",
