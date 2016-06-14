@@ -1,0 +1,11 @@
+{
+    "name": "ralfmaxxx/vagrant-configurable",
+    "description": "Configure your vagrant using one file",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Rafał Kański",
+            "email": "raf.kanski@gmail.com"
+        }
+    ]
+}
