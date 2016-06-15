@@ -19,3 +19,10 @@ Just open and adjust `vagrant/config/services.sh` which looks like:
 ```
  
 After that just run `vagrant up`.
+
+### How to import this for my own repository?
+
+Best option is to use:
+```
+composer create-project ralfmaxxx/vagrant-configurable
+```
